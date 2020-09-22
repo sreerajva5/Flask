@@ -1,0 +1,33 @@
+/*body{
+	background:gray;
+}*/
+
+
+body{
+	background:url("https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/4b/6a/f94b6a3e-0ddf-e177-3736-18ea6bcf0582/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png");
+	background-repeat:no-repeat;
+/* no-repeat is to avoid diplaying picture in background more than once*/
+}
+
+
+div{
+	background:lightblue;
+	border:orange;
+/*	border-width:thick;  */
+	border-width:10px;
+	border-style:dotted;
+
+/* can give above border options in one line as well
+	border:orange 10px dashed;  */
+
+}
+
+
+p{
+	color:red;
+}
+
+span{
+	background:red;
+	color:yellow;
+}

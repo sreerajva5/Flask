@@ -1,0 +1,51 @@
+body{
+ background:lightgrey;
+}
+
+
+
+h1{
+ text-align:center;
+ font-family:calibri;
+ border-style: solid;
+}
+
+h3{
+ font-family:calibri;
+}
+
+h2{
+ font-family:calibri;
+ color:darkblue;
+}
+
+ol{
+ font-family:calibri;
+ font-weight: bold;
+}
+
+#li3{
+color:red;
+}
+
+
+#emailtag{
+  border: 4px solid blue;
+}
+
+#pwd{
+  border: 4px solid blue;
+}
+
+#sub{
+  border: 4px solid blue;
+}
+
+form{
+ font-family:calibri;
+ font-weight: bold;
+}
+
+#textip{
+border: 5px solid gray
+}
